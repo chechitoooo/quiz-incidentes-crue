@@ -41,7 +41,3 @@ Los datos incluyen el número diario de incidentes y su evolución temporal, per
 ## 🤔 ¿Se puede predecir?
 Sí, se observan patrones estacionales claros: los incidentes aumentan los fines de semana y en los últimos meses del año. Sin embargo, la alta variabilidad diaria (desviación estándar de 256) sugiere que un modelo predictivo debería considerar tanto la estacionalidad como factores externos no incluidos en estos datos (clima, eventos especiales, etc.). Un enfoque de series temporales (como ARIMA o Prophet) podría ofrecer predicciones razonables a corto plazo.
 
-## 🚀 Cómo ejecutar
-```bash
-python descriptivo.py
-python temporal.py
