@@ -11,7 +11,7 @@ Los datos incluyen el número diario de incidentes y su evolución temporal, per
 
 | Nombre            | GitHub                                      |
 |-------------------|---------------------------------------------|
-| Sergio Huertas      | [github.com/estudianteA](https://github.com/chechitooo) |
+| Sergio Huertas      | [[github.com/estudianteA](https://github.com/chechitooo)](https://github.com/chechitooo) |
 | Sergio Prieto      | [github.com/estudianteB](https://github.com/ssseergiopp) |
 
 ## 🔍 Hallazgos principales
